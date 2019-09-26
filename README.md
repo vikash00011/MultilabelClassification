@@ -7,3 +7,6 @@ three faces, Alice, Bob, and Charlie; then when it is shown a picture of Alice a
 classification system.
 
 Pre-requesite: Please follow below seriarly
+https://github.com/vikash00011/BinaryClassification
+https://github.com/vikash00011/MulticlassClassification
+
